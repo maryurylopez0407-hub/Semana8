@@ -1,0 +1,8 @@
+El comando "uname -a", muestra información del sistema operativo, cómo el nombre de Linux, 
+la versión del kernel, la fecha de compilación y la arquitectura del equipo.
+
+El comando "whoami", muestra el usuario que tiene la sesión iniciada en el sistema.
+En este caso el usuario es Codespace.
+
+Conocer esta información es importante porque ayuda a identificar el sistema en el que se está trabajando,
+comprobar qué usuario tiene la sesión iniciada y facilitar la administración y solución de problemas del equipo.

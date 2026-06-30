@@ -1,0 +1,4 @@
+No dejar información sensible en archivos abiertos.
+Proteger contraseñas.
+No compartir credenciales.
+Mantener software actualizado.

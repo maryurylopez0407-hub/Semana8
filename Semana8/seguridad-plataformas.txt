@@ -1,0 +1,5 @@
+Control de acceso.
+Autenticación de usuarios.
+Registro y monitoreo.
+Protección de datos.
+Actualización del sistema.
